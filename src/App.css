@@ -1,0 +1,59 @@
+
+.center {
+	margin: auto;
+	width: 300px;
+	padding: 10px;
+}
+
+.app {
+  width: 800px;
+  margin:auto;
+  border:1px solid;
+}
+.search{
+  text-align: center;
+  padding: 10px;
+}
+.album{
+  width: 28%;
+  float: left;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 1% 10px;
+  min-height: 400px;
+}
+
+.button {
+  background: #0078cc;
+  color: white;
+  border-color: #0078cc;
+  box-shadow: none;
+  font-size: 16px;
+  padding: 0 10px;
+  line-height: 27px;
+  display: inline-block;
+  margin-left: 21px;
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.clear{
+  clear: both;
+}
+.album p{
+  text-align: center;
+  margin:0;
+}
+
+.formElements{
+  line-height: 21px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+select{
+  border-radius: 5px;
+  height: 28px;
+}
